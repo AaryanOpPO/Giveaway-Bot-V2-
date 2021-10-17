@@ -12,4 +12,4 @@ Example for @Nuggies-bot NPM
   node .
 ```
 
-# 🌟Star if you like the bot, join our [support server](https://discord.gg/Z4ebH8PXeA) for any kind of support!
+# 🌟Star if you like the bot, join our [support server](https://dsc.gg/logistack) for any kind of support!
