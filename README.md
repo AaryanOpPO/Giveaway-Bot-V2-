@@ -1,5 +1,5 @@
 # giveaways-example
-Example for @Nuggies-bot NPM
+# Only Works in VS CODE not in repl,glitch etc.
 
 # setup
 ### create a file named `.env`
